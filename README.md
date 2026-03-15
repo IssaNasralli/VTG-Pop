@@ -11,6 +11,22 @@ The method integrates three key components:
 VTG-Pop predicts population distribution at a fine spatial scale while being trained using only sector-level census supervision. This weakly supervised learning strategy enables the generation of high-resolution population maps without requiring detailed ground-truth population data at the micro level.
 
 The framework is evaluated on a nationwide dataset covering Tunisia, consisting of more than 24,000 Functional Spatial Units derived from 2,027 administrative sectors.
+The location of the study area (**Tunisia**) is illustrated in the following figure:
+
+<img src="area.png" width="25%">
+
+The full workflow is illustrated in the following figure:
+
+<img src="overview.png" width="45%">
+
+
+The full overview of the data collection and transformation pipeline is illustrated in the following figure:
+
+<img src="data.png" width="45%">
+
+The VTG-Pop  architecture  is illustrated in the following figure:
+
+<img src="model.png" width="45%">
 
 ## Key Features
 
