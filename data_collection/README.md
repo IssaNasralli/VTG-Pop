@@ -69,12 +69,12 @@ Some datasets are too large to be stored directly in this repository. They can b
 
 | Dataset | Description | Download Link |
 |-------|-------------|--------------|
-| OpenStreetMap (OSM) data | Road network and spatial features | [👉](https://drive.google.com/file/d/1CIEQklDsxsquovfrIwlwHIjCQ7p5G6Vz/view?usp=sharing)|
-| DEM layer | Digital Elevation Model | LINK |
-| NTL layer | Nighttime Lights imagery | LINK |
-| MODIS imagery | Satellite-derived land surface information | LINK |
-| Tunisia country boundary | GAUL country-level boundary | LINK |
-| Tunisia sector boundary | Administrative sector boundaries | LINK |
+| OpenStreetMap (OSM) data | Road network and spatial features | [👉](https://drive.google.com/file/d/15xiLOmsAcHI7q3TVR2uf9jCzOOxWFTwJ/view?usp=sharing)|
+| DEM layer | Digital Elevation Model |   [👉](https://drive.google.com/file/d/1QWDfKUUns6UzAl5zQU3J6j7ba8rO7Iqt/view?usp=sharing) |
+| NTL layer | Nighttime Lights imagery |  [👉](https://drive.google.com/file/d/1nDOA5-HVc2mT9du5E-cqIfn_mgDjYw_X/view?usp=sharing) |
+| MODIS imagery | Satellite-derived land surface information |  [👉](https://drive.google.com/file/d/1mTkBDegUozfW1Ffla3Dv5yIhrBFuEGwF/view?usp=sharing) |
+| Tunisia country boundary | GAUL country-level boundary | [👉](https://drive.google.com/file/d/1CIEQklDsxsquovfrIwlwHIjCQ7p5G6Vz/view?usp=sharing) |
+| Tunisia sector boundary | Administrative sector boundaries | [👉](https://github.com/jmgclark/tunisia_shapefiles/tree/main/created_shapefiles)  |
 
 Replace the placeholder `LINK` values with the appropriate download URLs.
 
