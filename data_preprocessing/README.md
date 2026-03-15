@@ -55,7 +55,7 @@ These scripts scale raster values to a suitable range for model input.
 
 
 
-## 5. Notes
+## 4. Notes
 
 All preprocessing steps follow the methodology described in the paper for generating multi-layer raster stacks and functional spatial feature.
 
