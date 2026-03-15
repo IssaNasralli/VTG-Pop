@@ -69,8 +69,7 @@ Some datasets are too large to be stored directly in this repository. They can b
 
 | Dataset | Description | Download Link |
 |-------|-------------|--------------|
-| OpenStreetMap (OSM) data | Road network and spatial features | 👉 [](https://drive.google.com/file/d/1CIEQklDsxsquovfrIwlwHIjCQ7p5G6Vz/view?usp=sharing)
- |
+| OpenStreetMap (OSM) data | Road network and spatial features | 👉 [](https://drive.google.com/file/d/1CIEQklDsxsquovfrIwlwHIjCQ7p5G6Vz/view?usp=sharing)|
 | DEM layer | Digital Elevation Model | LINK |
 | NTL layer | Nighttime Lights imagery | LINK |
 | MODIS imagery | Satellite-derived land surface information | LINK |
