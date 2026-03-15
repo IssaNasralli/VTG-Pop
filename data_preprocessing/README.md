@@ -52,10 +52,35 @@ norm_single_band.py – Normalizes single-band raster layers (e.g., NTL, road in
 norm_modis.py – Normalizes three-band raster imagery (MODIS RGB layers).
 
 These scripts scale raster values to a suitable range for model input.
+## 4. Final Multi-layer Raster Stacks :
+The final dataset (`tunisia6.tif`) is produced by stacking all prepared raster layers into a single multi-band raster using ArcGIS Pro.
+1. Open **ArcGIS Pro**.
+2. Go to **Analysis → Tools**.
+3. Search for **Composite Bands**.
+4. Add all the 6 rasters
+5. Choose an output location.
+6. Set the output name:
+
+```
+tunisia6.tif
+```
+
+7. Run the tool.
+
+### Result
+
+The generated raster contains **8 bands**:
+
+- 5 single-band layers
+- 1 MODIS raster containing **3 bands**
+
+Total = **8 bands**.
+
+This file corresponds to the dataset used for training and evaluation in the study. 
+Download the ready file (`tunisia10.tif`) from the link below and extract it if necessary.  👉 [Download](https://drive.google.com/file/d/18DKiQu5C6zlEOTOI4Hm4BccGmZHf0wnG/view?usp=sharing)
 
 
-
-## 4. Notes
+## 5. Notes
 
 All preprocessing steps follow the methodology described in the paper for generating multi-layer raster stacks and functional spatial feature.
 
