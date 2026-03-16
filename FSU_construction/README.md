@@ -20,7 +20,8 @@ The first step consists of generating **Voronoi polygons** from the POI layer. T
 
 1. Load the **POI shapefile** into ArcGIS.
 2. Open **ArcToolbox**.
-3. Navigate to: Analysis Tools → Proximity → Create Thiessen Polygons
+3. Navigate to:```sql
+ Analysis Tools → Proximity → Create Thiessen Polygons```
 4. 
 4. Configure the tool parameters:
 
