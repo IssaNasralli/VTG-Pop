@@ -84,7 +84,7 @@ Install them with:
 
 ```sql
 pip install rasterio geopandas
-```sql
+```
 
 
 ## Usage
