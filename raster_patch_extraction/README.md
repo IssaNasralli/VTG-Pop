@@ -59,7 +59,7 @@ Each output raster:
 - contains the same raster channels as the input stack
 - is clipped to the extent of the spatial unit
 - preserves the original geospatial metadata (transform and CRS)
-
+A ready-to-use folder of rasters is available here:[👉](https://drive.google.com/file/d/1_FBKZFv8UCjUcxbbPppzPXNvzADEBRPq/view?usp=sharing)
 ## Processing Workflow
 
 The extraction process follows these steps:
