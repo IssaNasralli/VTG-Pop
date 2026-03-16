@@ -139,9 +139,11 @@ This table is later used as the **node feature matrix** in the graph learning st
 
 
 FID,ref_tn_cod,id_thiesse,type,area_m2,road_density_mean,school_kde_mean
+```sql
 0,1234,45,1,12450.3,0.52,0.18
 1,1234,46,1,9876.5,0.47,0.21
 ...
+```
 
 
 ---
