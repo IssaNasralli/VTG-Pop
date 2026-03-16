@@ -22,7 +22,8 @@ The first step consists of generating **Voronoi polygons** from the POI layer. T
 2. Open **ArcToolbox**.
 3. Navigate to:
    ```sql
- Analysis Tools → Proximity → Create Thiessen Polygons```
+ Analysis Tools → Proximity → Create Thiessen Polygons
+ ```
 5. 
 4. Configure the tool parameters:
 
@@ -61,17 +62,19 @@ voronoi.shp
 2. Split sectors using the **major roads layer**.
 Use:
 
-```Analysis Tools → Overlay → Identity 
+```sql
+Analysis Tools → Overlay → Identity 
 ```
 or:
-```
+```sql
+
 Analysis Tools → Overlay → Intersect
 ```
 
 4. Intersect the resulting layer with the **Voronoi polygons**.
 
 Tool:
-```
+```sql
 Analysis Tools → Overlay → Intersect
 ```
 Input layers:
