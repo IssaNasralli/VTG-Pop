@@ -20,9 +20,10 @@ The first step consists of generating **Voronoi polygons** from the POI layer. T
 
 1. Load the **POI shapefile** into ArcGIS.
 2. Open **ArcToolbox**.
-3. Navigate to:```sql
+3. Navigate to:
+   ```sql
  Analysis Tools → Proximity → Create Thiessen Polygons```
-4. 
+5. 
 4. Configure the tool parameters:
 
 | Parameter | Value |
@@ -58,12 +59,21 @@ sectors.shp
 major_roads.shp
 voronoi.shp
 2. Split sectors using the **major roads layer**.
-Use:Analysis Tools → Overlay → Identity or Analysis Tools → Overlay → Intersect
+Use:
 
-3. Intersect the resulting layer with the **Voronoi polygons**.
+```Analysis Tools → Overlay → Identity 
+```
+or:
+```
+Analysis Tools → Overlay → Intersect
+```
+
+4. Intersect the resulting layer with the **Voronoi polygons**.
 
 Tool:
+```
 Analysis Tools → Overlay → Intersect
+```
 Input layers:
 sector_split_by_roads.shp
 voronoi.shp
