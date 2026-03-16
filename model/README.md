@@ -229,4 +229,3 @@ The architecture implemented in `thfilm.py` corresponds to the **VTG-Pop framewo
 
 The implementation is designed to efficiently handle large spatial graphs while processing raster inputs associated with individual FSUs.
 
-If
