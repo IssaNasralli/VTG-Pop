@@ -72,6 +72,7 @@ You can download the ready-to-use raster file (`tunisia6.tif`) here:
    👉 [Download](https://drive.google.com/file/d/18DKiQu5C6zlEOTOI4Hm4BccGmZHf0wnG/view?usp=sharing)
    
 ⚠️ Make sure to place the downloaded `.tif` file in the expected directory before running the script.
+
 ---
 
 ### Step 6 — Build spatial unit features
