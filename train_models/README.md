@@ -193,6 +193,7 @@ Saved in:
 
     checkpoints/
 
+There's a checkpoint, for each model, provided to reuse for training.
 ---
 
 ### 🔹 Final Evaluation
