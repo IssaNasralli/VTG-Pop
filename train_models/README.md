@@ -63,9 +63,9 @@ Ensure the following files exist:
 ---
 
 ### Step 5 — Extract spatial unit data form the Multi-layer Raster Stack
-
+```bash 
     python extract_spatial_unit_data.py
-
+``` 
 
     
     This step extracts raster-based features for each spatial unit using a **multi-layer raster stack**.
