@@ -30,9 +30,13 @@ Before launching training, you **must execute the full data preparation pipeline
 
 ### Step 1 — Create Functional Spatial Units (FSU)
 
-- Generate Voronoi-based FSUs  
-- Save the shapefile in:
+- Generate Voronoi-based FSUs
+      This step was described in the FSU construction module:
+    
+[FSU_construction](https://github.com/IssaNasralli/VTG-Pop/tree/main/FSU_construction):
 
+You can download the ready-to-use shape file (`unit.shp`) here: 👉 [FSUs](https://drive.google.com/file/d/1YHP2jMkBAQ1mZQe7XKywcjt17F43JzMU/view?usp=sharing)     
+- Save the shapefile in:
     unit_shp/unit.shp
 
 ---
