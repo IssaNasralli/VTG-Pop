@@ -68,8 +68,8 @@ Ensure the following files exist:
 ``` 
 
     
-    This step extracts raster-based features for each spatial unit using a **multi-layer raster stack**.
-    The raster stack used in this project is described in the data preprocessing module:
+This step extracts raster-based features for each spatial unit using a **multi-layer raster stack**.
+The raster stack used in this project is described in the data preprocessing module:
     
 [data_preprocessing](https://github.com/IssaNasralli/VTG-Pop/tree/main/data_preprocessing):
 
