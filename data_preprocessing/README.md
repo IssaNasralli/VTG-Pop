@@ -77,7 +77,7 @@ The generated raster contains **8 bands**:
 Total = **8 bands**.
 
 This file corresponds to the dataset used for training and evaluation in the study. 
-Download the ready file (`tunisia10.tif`) from the link below and extract it if necessary.  👉 [Download](https://drive.google.com/file/d/18DKiQu5C6zlEOTOI4Hm4BccGmZHf0wnG/view?usp=sharing)
+Download the ready file (`tunisia6.tif`) from the link below and extract it if necessary.  👉 [Download](https://drive.google.com/file/d/18DKiQu5C6zlEOTOI4Hm4BccGmZHf0wnG/view?usp=sharing)
 
 
 ## 5. Notes
