@@ -40,7 +40,7 @@ highway IN ('motorway', 'trunk', 'primary', 'secondary', 'tertiary','service')
 ```
 ### 2.2 Snapping Road Features
 A Python script (snap.py) is provided to snap road vertices and endpoints to ensure topological consistency.
-### 2.3 Road Intersection Density Raste
+### 2.3 Road Intersection Density Raster
 After snapping, compute the road intersection density raster. A ready-to-use raster is available here:
 👉 [Road Density Raster](https://drive.google.com/file/d/1_MBve03Jgqh52FRAdLxEeUbEz1usdr4r/view)
 ## 3. Normalization Scripts
