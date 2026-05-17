@@ -40,9 +40,9 @@ The VTG-Pop  architecture  is illustrated in the following figure:
 
 - `data_collection/` : scripts for collecting and preparing raw geospatial data (census sectors, road networks, POIs, etc.).
 - `data_processing/` : multi-layer raster construction
-- `FSU_construction/` : Steps for generating Functional Spatial Units (FSUs)
-- `node_feature_extraction/` :Extracting raster patches from the unified multi-layer raster representation.
-- `raster_patch_extraction/` :Extracting raster patches from the unified multi-layer raster representation.
+- `FSU_construction/` : Steps for generating FSUs
+- `raster_patch_extraction/` :Extracting raster patches for each FSU from the unified multi-layer raster representation.
+- `node_feature_extraction/` : Computing contextual attributes for each FSU that will serve as node features in the spatial graph..
 - `model/` : VTG-Pop architecture implementation
 - `training/` : training and evaluation pipeline
 - `experiments/` : scripts used for the experimental evaluation
