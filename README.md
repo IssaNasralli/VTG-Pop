@@ -45,8 +45,6 @@ The VTG-Pop  architecture  is illustrated in the following figure:
 - `node_feature_extraction/` : Computing contextual attributes for each FSU that will serve as node features in the spatial graph..
 - `model/` : VTG-Pop architecture implementation
 - `training/` : training and evaluation pipeline
-- `experiments/` : scripts used for the experimental evaluation
-- `visualization/` : generation of population maps and analysis figures
 
 ## Citation
 
