@@ -76,8 +76,6 @@ Some datasets are too large to be stored directly in this repository. They can b
 | Tunisia country boundary | GAUL country-level boundary | [👉](https://drive.google.com/file/d/1CIEQklDsxsquovfrIwlwHIjCQ7p5G6Vz/view?usp=sharing) |
 | Tunisia sector boundary | Administrative sector boundaries | [👉](https://github.com/jmgclark/tunisia_shapefiles/tree/main/created_shapefiles)  |
 
-Replace the placeholder `LINK` values with the appropriate download URLs.
-
 ---
 
 ## Notes
