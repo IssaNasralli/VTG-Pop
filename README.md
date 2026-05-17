@@ -44,7 +44,7 @@ The VTG-Pop  architecture  is illustrated in the following figure:
 - `raster_patch_extraction/` :Extracting raster patches for each FSU from the unified multi-layer raster representation.
 - `node_feature_extraction/` : Computing contextual attributes for each FSU that will serve as node features in the spatial graph..
 - `model/` : VTG-Pop architecture implementation
-- `training/` : training and evaluation pipeline
+- `train_models/` : training pipeline
 
 ## Citation
 
